@@ -108,6 +108,16 @@ a {
     font-size: 20px;
 }
 
+.resume-button{
+    background-color: rgba(255, 255, 255, 0.1);
+    list-style: none;
+    padding: 8px;
+    border-radius: 20px;
+    font-size: 17px;
+    font-family: cursive;
+}
+
+
 .my-self {
     font-size: 15px;
     color: white;
